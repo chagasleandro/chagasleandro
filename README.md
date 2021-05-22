@@ -4,4 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/chagasleandro)](https://github.com/chagasleandro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/leandro-chagas-b2264b91/)
 
+### About me
+I'm a student in{backend, frontend and mobile} developer web.
+
 
