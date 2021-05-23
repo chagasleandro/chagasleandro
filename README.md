@@ -19,6 +19,10 @@ I'm a student in{backend, frontend and mobile} developer web.
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 
+<p align="center">
+    <a href="https://github.com/chagasleandro" target="_blank"><img alt="chagasleandro" src="https://badges.pufler.dev/visits/chagasleandro/chagasleandro?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
+
 **Database**
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)]
 
