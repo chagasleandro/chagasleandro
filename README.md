@@ -23,6 +23,14 @@ I'm a student in{backend, frontend and mobile} developer web.
     <a href="https://github.com/chagasleandro" target="_blank"><img alt="chagasleandro" src="https://badges.pufler.dev/visits/chagasleandro/chagasleandro?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
+**Languages**
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/v/)](https://github.com/chagasleandro/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+
+
 **Database**
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
