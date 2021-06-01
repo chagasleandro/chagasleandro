@@ -26,10 +26,13 @@ I'm a student in{backend, frontend and mobile} developer web.
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
-[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/v/)](https://github.com/chagasleandro/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
+**Others Technologies**
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/chagasleandro/)](https://github.com/ildaneta/)
+[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/chagasleandro/)](https://github.com/ildaneta/)
 
 **Database**
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
