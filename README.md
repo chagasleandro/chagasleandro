@@ -24,5 +24,12 @@ I'm a student in{backend, frontend and mobile} developer web.
 </p>
 
 **Database**
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)]
+[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+
+**CMS**
+[![Typo3](https://img.shields.io/badge/-Typo3-f9d2a7?style=flat-square&logo=typo3&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+
 
