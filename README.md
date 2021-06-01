@@ -35,12 +35,16 @@ I'm a student in{backend, frontend and mobile} developer web.
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/chagasleandro/)](https://github.com/ildaneta/)
 
 **Database**
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
 **CMS**
 [![Typo3](https://img.shields.io/badge/-Typo3-f9d2a7?style=flat-square&logo=typo3&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+
+**Versioning and Communication**
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
 
