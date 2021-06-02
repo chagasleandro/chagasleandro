@@ -16,7 +16,7 @@ I'm a student in{backend, frontend and mobile} developer web.
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![Angularjs](https://img.shields.io/badge/-Angularjs-black?style=flat-square&logo=Angular.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
 <p align="center">
     <a href="https://github.com/chagasleandro" target="_blank"><img alt="chagasleandro" src="https://badges.pufler.dev/visits/chagasleandro/chagasleandro?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
