@@ -16,6 +16,7 @@ I'm a student in{backend, frontend and mobile} developer web.
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
 <p align="center">
     <a href="https://github.com/chagasleandro" target="_blank"><img alt="chagasleandro" src="https://badges.pufler.dev/visits/chagasleandro/chagasleandro?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
@@ -29,8 +30,8 @@ I'm a student in{backend, frontend and mobile} developer web.
 
 **Others Technologies**
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/chagasleandro/)](https://github.com/ildaneta/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/chagasleandro/)](https://github.com/ildaneta/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![Postmana](https://img.shields.io/badge/-Postman-5849BE?style=flat-square&logo=Postman&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
