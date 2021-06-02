@@ -32,6 +32,7 @@ I'm a student in{backend, frontend and mobile} developer web.
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![Postmana](https://img.shields.io/badge/-Postman-5849BE?style=flat-square&logo=Postman&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![Ionic](https://img.shields.io/badge/-Ionic-5849BE?style=flat-square&logo=Ionic&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
 **Mobile / Front-end**
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/chagasleandro/)
