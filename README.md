@@ -33,6 +33,16 @@ I'm a student in{backend, frontend and mobile} developer web.
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![Postmana](https://img.shields.io/badge/-Postman-5849BE?style=flat-square&logo=Postman&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
+**Mobile / Front-end**
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/chagasleandro/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/chagasleandro/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/chagasleandro/)
+
+
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
