@@ -19,6 +19,7 @@ I'm a student in { backend, frontend and mobile } developer web.
 [![Angularjs](https://img.shields.io/badge/-Angularjs-black?style=flat-square&logo=Angular.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![Reactjs](https://img.shields.io/badge/-Reactjs-black?style=flat-square&logo=React.js&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
+<a href="https://React.io/" title="Reactjs"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="React" width="21px" height="21px"></a>
 
 
 <p align="center">
