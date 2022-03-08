@@ -54,9 +54,6 @@ I'm a student in fullstack Java and Angular.
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 [![Firebase](https://img.shields.io/badge/-Firebase-003B57?style=flat-square&logo=firebase&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
-**CMS**
-[![Typo3](https://img.shields.io/badge/-Typo3-f9d2a7?style=flat-square&logo=typo3&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
 
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/chagasleandro/)](https://github.com/chagasleandro/)
