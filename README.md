@@ -1,4 +1,14 @@
 ### Olá! Eu sou o Leandro Chagas 🤙
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
+<a href="https://www.linkedin.com/in/leandrochagas/" target="_blank">
+    <h1 align="center">
+        Leandro Chagas
+        </a>
+    </h1>
+     <a href="https://www.linkedin.com/in/leandrochagas/" target="_blank">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    
 - 🔭 Hoje trabalho com pós venda na Hitachi Kokusai Linear.
 - 🌱 Estudando Angular e Java.
 - ✉ Contate-me no e-mail: leandrosrs2012@gmail.com
