@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Chagas 🤙
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
     </h1>
-     <a href="https://www.linkedin.com/in/leandrochagas/" target="_blank">
+     <a href="https://www.linkedin.com/in/leandro-chagas-b2264b91//" target="_blank">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     
