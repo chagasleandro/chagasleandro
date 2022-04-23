@@ -10,7 +10,7 @@
 - ✉ Contate-me no e-mail: leandrosrs2012@gmail.com
 <div align="center">
   <a href="https://github.com/chagasleandro">
-      <h2> • Tecnologias que estou estudando 📚</h2>
+      <h2> • Technology I`m Studying 📚</h2>
 </div>
     <div style="display: inline_block">
         <img align="center" alt="Javascript"
@@ -24,7 +24,9 @@
     <img align="center" alt="MySQL"
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <img align="center" alt="Reactjs"
-            src="https://img.shields.io/badge/REACTJS-00000F?style=for-the-badge&logo=reactjs&logoColor=white">
+            src="https://img.shields.io/badge/REACTJS-ED8B00?style=for-the-badge&logo=reactjs&logoColor=white">
+        <img align="center" alt="ANGULAR"
+            src="https://img.shields.io/badge/ANGULAR-ED8B00?style=for-the-badge&logo=angular&logoColor=white">
         <br> </br>
 </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chagasleandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
