@@ -23,6 +23,8 @@
             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="MySQL"
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img align="center" alt="Reactjs"
+            src="https://img.shields.io/badge/REACTJS-00000F?style=for-the-badge&logo=reactjs&logoColor=white">
         <br> </br>
 </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chagasleandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
