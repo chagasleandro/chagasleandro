@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/chagasleandro">
       <h2> • Tecnologias que estou estudando 📚</h2>
-<div>
+</div>
     <div style="display: inline_block">
         <img align="center" alt="Javascript"
             src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
