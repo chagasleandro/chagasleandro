@@ -27,6 +27,10 @@
             src="https://img.shields.io/badge/REACTJS-ED8B00?style=for-the-badge&logo=reactjs&logoColor=white">
         <img align="center" alt="ANGULAR"
             src="https://img.shields.io/badge/ANGULAR-ED8B00?style=for-the-badge&logo=angular&logoColor=white">
+        <img align="center" alt="POSTGRESQL"
+            src="https://img.shields.io/badge/POSTGRESQL-EDB80?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img align="center" alt="FIREBASE"
+            src="https://img.shields.io/badge/FIREBASE-EDB80?style=for-the-badge&logo=firebase&logoColor=white">
         <br> </br>
 </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chagasleandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
