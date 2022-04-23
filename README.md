@@ -4,6 +4,8 @@
      <a href="https://www.linkedin.com/in/leandro-chagas-b2264b91//" target="_blank">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href = "mailto:leandrosrs2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/leandro_tchep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
 - 🔭 Today I work with after sales at Hitachi Kokusai Linear.
 - 🌱 Studying Angular, ReactJS and NextJS.
