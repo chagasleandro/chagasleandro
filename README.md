@@ -36,7 +36,9 @@
             src="https://img.shields.io/badge/FIREBASE-EDB80?style=for-the-badge&logo=firebase&logoColor=white">
         <br></br>
     </div>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?        username=chagasleandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <div align="center">
+        <a href="https://github.com/chagasleandro">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chagasleandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasleandro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     <p align="center">
