@@ -14,25 +14,30 @@
 <div align="center">
       <h2> • Technology I'm Studying 📚</h2>
 </div>
-    <div style="display: inline_block">
-        <img align="center" alt="Javascript"
-            src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+     <div style="display: inline_block">
         <img align="center" alt="HTML"
             src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img align="center" alt="CSS"
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img align="center" alt="Java"
-            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <img align="center" alt="Javascript"
+            src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img align="center" alt="Nextjs"
+            src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+        <img align="center" alt="Reactjs"
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+        <img align="center" alt="ANGULAR"
+            src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white">
+     </div>
+<div>
+    <h2> • Databases</h2>
+</div>          
+     <div style="dispaly: inline_block">
         <img align="center" alt="MySQL"
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-        <img align="center" alt="Reactjs"
-            src="https://img.shields.io/badge/REACTJS-ED8B00?style=for-the-badge&logo=reactjs&logoColor=white">
-        <img align="center" alt="ANGULAR"
-            src="https://img.shields.io/badge/ANGULAR-ED8B00?style=for-the-badge&logo=angular&logoColor=white">
-        <img align="center" alt="POSTGRESQL"
-            src="https://img.shields.io/badge/POSTGRESQL-EDB80?style=for-the-badge&logo=postgresql&logoColor=white">
+         <img align="center" alt="POSTGRESQL"
+            src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
         <img align="center" alt="FIREBASE"
-            src="https://img.shields.io/badge/FIREBASE-EDB80?style=for-the-badge&logo=firebase&logoColor=white">
+            src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
         <br></br>
     </div>
     <div align="center">
