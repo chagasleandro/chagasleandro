@@ -1,18 +1,17 @@
 ### Hi! I'm Leandro Chagas 🤙
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
-    <h1>Contact-me</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"       width="450px" align="right" alt="Computador">
+<h1>Contact-me</h1>
         <a href="https://www.linkedin.com/in/leandro-chagas-b2264b91//" target="_blank">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href = "mailto:leandrosrs2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/leandro_tchep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+            <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href = "mailto:leandrosrs2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"            target="_blank"></a>
+        <a href="https://instagram.com/leandro_tchep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank"></a>
     
    
 - 🔭 Today I work with after sales at Hitachi Kokusai Linear.
 - 🌱 Studying Angular, ReactJS and NextJS.
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
 <div align="center">
-  <a href="https://github.com/chagasleandro">
       <h2> • Technology I'm Studying 📚</h2>
 </div>
     <div style="display: inline_block">
