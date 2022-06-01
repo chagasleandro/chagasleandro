@@ -9,7 +9,7 @@
     
    
 - 🔭 Today I work with after sales at Hitachi Kokusai Linear.
-- 🌱 Studying Angular, ReactJS and NextJS.
+- 🌱 Studying Angular, Java and Spring Boots.
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
 <div align="center">
       <h2> • Technology I'm Studying 📚</h2>
@@ -21,8 +21,8 @@
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img align="center" alt="Javascript"
             src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-        <img align="center" alt="Nextjs"
-            src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+        <img align="center" alt="Java"            
+             src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white">
         <img align="center" alt="Reactjs"
             src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <img align="center" alt="ANGULAR"
