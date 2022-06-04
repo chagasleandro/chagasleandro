@@ -9,7 +9,7 @@
     
    
 - 🔭 Today I work with after sales at Hitachi Kokusai Linear.
-- 🌱 Studying Angular, Java and Spring Boots.
+- 🌱 Studying Angular, Java and Spring boot.
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
 <div align="center">
       <h2> • Technology I'm Studying 📚</h2>
