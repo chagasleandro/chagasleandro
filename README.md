@@ -43,5 +43,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasleandro&layout=compact&langs_count=5&theme=dracula"/>
 </div>
     <p align="center">
-        <a href="https://github.com/chagasleandro" target="_blank"><img alt="chagasleandro" src="https://badges.pufler.dev/visits/chagasleandro/chagasleandro?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+        <a href="https://github.com/chagasleandro" target="_blank"><img alt="chagasleandro" src="https://badges.pufler.dev/visits/chagasleandro/chagasleandrologo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
     </p>
