@@ -7,9 +7,15 @@
         <a href = "mailto:leandrosrs2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"            target="_blank"></a>
         <a href="https://instagram.com/leandro_tchep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-   
-- 🔭 Today I work with after sales at Hitachi Kokusai Linear.
-- 🌱 Studying Angular, Java and Spring boot.
+</br>
+
+- 🔍 Atualmente focado em Front-end;
+- 📚 Fortalecendo fundamentos do desenvolvimento no momento;
+- 🙋🏾‍♂️ Pronomes: ele/dele;
+- 💡 Viso um dia mudar o meio social com soluções tecnológicas;
+- ☕ Já disse que amo um cafézinho?;
+- 💻 <a href="https://lucyanovidio.vercel.app">Meu portifólio dev</a>.
+
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
 <div align="center">
       <h2> • Technology I'm Studying 📚</h2>
