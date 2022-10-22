@@ -35,7 +35,7 @@
             src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white">
      </div>
 <div>
-    <h2> • Databases</h2>
+    <h2> • Database</h2>
 </div>          
      <div style="dispaly: inline_block">
         <img align="center" alt="MySQL"
