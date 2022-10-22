@@ -18,7 +18,7 @@
 
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
 <div align="center">
-      <h2> • Technology I'm Studying 📚</h2>
+<h2> • Technology I'm Studying 📚</h2>
 </div>
      <div style="display: inline_block">
         <img align="center" alt="HTML"
