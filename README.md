@@ -14,7 +14,7 @@
 - 🙋🏾‍♂️ Pronomes: ele/dele;
 - 💡 Viso um dia mudar o meio social com soluções tecnológicas;
 - ☕ Já disse que amo um cafézinho?;
-- 💻 <a href="https://leandrochagas.vercel.apppp">Meu portifólio dev</a>.
+- 💻 <a href="my-portfolio-gray-ten.vercel.app/">Meu portifólio dev</a>.
 
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
 <div align="center">
