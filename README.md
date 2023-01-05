@@ -40,6 +40,8 @@
      <div style="dispaly: inline_block">
         <img align="center" alt="MySQL"
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img align="center" alt="MongoDB"
+            src="https://img.shields.io/badge/MongoDB-008000?style=for-the-badge&logo=mongodb&logoColor=white">
          <img align="center" alt="POSTGRESQL"
             src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
         <img align="center" alt="FIREBASE"
@@ -48,6 +50,6 @@
     </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasleandro&layout=compact&langs_count=5&theme=dracula"/>
 </div>
-    <p align="center">
-        (https://visitor-badge.glitch.me/badge?page_id=chagasleandro-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
-    </p>
+   
+       !(https://visitor-badge.glitch.me/badge?page_id=chagasleandro-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
+ 
