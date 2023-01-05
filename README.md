@@ -17,8 +17,8 @@
 - 💻 <a href="https://my-portfolio-gray-ten.vercel.app/">Meu portifólio dev</a>.
 
 - ✉ Contact-me e-mail: leandrosrs2012@gmail.com
-<div align="center">
-<h2> • Technology I'm Studying 📚</h2>
+<div>
+<h2>• Technology I'm Studying 📚</h2>
 </div>
      <div style="display: inline_block">
         <img align="center" alt="HTML"
@@ -33,6 +33,8 @@
             src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <img align="center" alt="ANGULAR"
             src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white">
+        <img align="center" alt="Vercel"            
+             src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white">
      </div>
 <div>
     <h2> • Database</h2>
@@ -51,5 +53,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasleandro&layout=compact&langs_count=5&theme=dracula"/>
 </div>
    
-       !(https://visitor-badge.glitch.me/badge?page_id=chagasleandro-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
- 
+       
