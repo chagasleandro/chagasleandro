@@ -1,4 +1,5 @@
 ### Hi! I'm Leandro Chagas 🤙
+![](https://visitor-badge.glitch.me/badge?page_id=chagasleandro-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"       width="450px" align="right" alt="Computador">
 <h1>Contact-me</h1>
         <a href="https://www.linkedin.com/in/leandro-chagas-b2264b91//" target="_blank">
