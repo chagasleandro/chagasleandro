@@ -52,6 +52,7 @@
         <br></br>
     </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasleandro&layout=compact&langs_count=5&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasleandro&layout=compact&theme=material-palenight&langs_count=6"/>
 </div>
    
        
