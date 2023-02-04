@@ -32,6 +32,8 @@
              src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white">
         <img align="center" alt="Reactjs"
             src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+        <img align="center" alt="React NATIVE"
+            src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=reactnative&logoColor=%2361DAFB">
         <img align="center" alt="ANGULAR"
             src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white">
         <img align="center" alt="Vercel"            
@@ -48,7 +50,7 @@
         <img align="center" alt="FIREBASE"
             src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
         <img align="center" alt="PostgreSQL"
-            src="https://img.shields.io/badge/postgresql-%23039BE5.svg?style=for-the-badge&logo=postgresql">
+            src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql">
         <br></br>
     </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chagasleandro&theme=material-palenight&show_icons=true"/>
