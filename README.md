@@ -47,7 +47,7 @@
             src="https://img.shields.io/badge/MongoDB-008000?style=for-the-badge&logo=mongodb&logoColor=white">
         <img align="center" alt="FIREBASE"
             src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-            img align="center" alt="PostgreSQL"
+        <img align="center" alt="PostgreSQL"
             src="https://img.shields.io/badge/postgresql-%23039BE5.svg?style=for-the-badge&logo=postgresql">
         <br></br>
     </div>
