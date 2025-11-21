@@ -1,31 +1,6 @@
-# 🚀 Leandro Chagas — IoT & Infrastructure Engineer  
-![](https://visitor-badge.glitch.me/badge?page_id=chagasleandro-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
+# 🚀 Leandro Chagas — IoT & Infra Engineer
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
-
-Sou apaixonado por **Tecnologia, IoT, Conectividade e Desenvolvimento de Soluções Inteligentes**.  
-Atuo criando projetos que unem **Software + Hardware + Cloud**, com foco em **telemetria, automação, infraestrutura crítica e aplicações como ESP32 / MQTT / Grafana / Docker / Node.js**.
-
-Meu objetivo é construir sistemas que **resolvem problemas reais e conectam o mundo físico ao digital**.
-
----
-
-## 📞 Contact-me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-chagas-/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosrs2012@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leandro_tchep)
-
----
-
-## 🛰 Sobre mim
-- 🔭 Focado em **IoT, Telemetria e Infraestrutura**  
-- 📡 Experiência com **ESP32, MQTT, Modbus, sensores e protocolos embarcados**  
-- 🛠 Forte atuação em **Infraestrutura, Suporte Técnico, Redes, Docker, Grafana, Zabbix**  
-- ⚡ Criador dos projetos **InfraMon**, **EnergySense** e **Estação Meteorológica ESP32**  
-- ☕ Café é o meu compilador pessoal  
-- 💻 Meu portfólio: https://portfolio-my-omega.vercel.app/  
-
----
+Criador de soluções em **IoT, telemetria e infraestrutura inteligente**, unindo **ESP32, MQTT, Node.js, InfluxDB, Docker e Grafana** para construir projetos que conectam o mundo físico ao digital.
 
 ## 🔧 Tecnologias IoT & Infraestrutura
 ### • Hardware & Protocolos
@@ -50,36 +25,13 @@ Meu objetivo é construir sistemas que **resolvem problemas reais e conectam o m
 ![MongoDB](https://img.shields.io/badge/MongoDB-008000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+ 
 
----
+## 📡 Projetos
+- **InfraMon** – Telemetria em tempo real  
+- **EnergySense** – Monitoramento elétrico  
+- **Estação Meteorológica** – Sensores + MQTT + Grafana  
 
-## 📡 Projetos em Destaque (IoT)
-
-### 🔥 **InfraMon** — Plataforma de Telemetria  
-ESP32 + MQTT + Node.js + InfluxDB + Grafana  
-✔ Monitoramento em tempo real  
-✔ Alertas e histórico  
-✔ Dashboard completo
-
----
-
-### 🌦 **Estação Meteorológica ESP32**  
-Coleta clima → MQTT → Dashboard Grafana  
-Backend em Python/Node.js.
-
----
-
-### ⚡ **EnergySense**  
-Monitoramento elétrico (corrente, consumo, tensão) + relé.
-
----
-
-## 📈 GitHub Stats  
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=chagasleandro&theme=material-palenight&show_icons=true"/>  
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasleandro&layout=compact&theme=material-palenight&langs_count=6"/>
-
----
-
-## 💬 Vamos conversar?
-📩 **leandrosrs2012@gmail.com**  
-Se você curte IoT, telemetria, mobile ou backend — conecte-se comigo!
+## 📞 Contato  
+📩 leandrosrs2012@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/leandro-chagas-/
